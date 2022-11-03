@@ -23,7 +23,7 @@ Below are the technologies used:
 -> [Python](https://www.python.org/downloads/): Version Python 3.10.3
 -> [Visual Studio](https://visualstudio.microsoft.com/): Version 17.1
 
-How to run the project:
+How to run the project: <br/>
 1.Download the project repository 
 2.unzip the files and open the folder in Visual Studio
 3.open app.py
