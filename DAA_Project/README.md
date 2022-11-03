@@ -24,7 +24,7 @@ Below are the technologies used:
 -> [Visual Studio](https://visualstudio.microsoft.com/): Version 17.1
 
 How to run the project: <br/>
-1.Download the project repository 
-2.unzip the files and open the folder in Visual Studio
-3.open app.py
-4.go to Run tab -> Run
+1.Download the project repository <br/>
+2.unzip the files and open the folder in Visual Studio <br/>
+3.open app.py <br/>
+4.go to Run tab -> Run <br/>
